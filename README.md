@@ -1,2 +1,2 @@
 # E-Commerce-DIO
-O que o projeto faz Por que o projeto é útil Como os usuários podem começar a usar o projeto Onde os usuários podem obter ajuda com seu projeto Quem mantém e contribui com o projeto
+Neste repositório foi criado um esquema de um E-commerce com o intuito de avaliação de uma etapa do curso de Análise de Dados com Power BI ofertado pela DIO
